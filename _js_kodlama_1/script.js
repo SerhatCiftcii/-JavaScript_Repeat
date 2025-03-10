@@ -48,7 +48,7 @@ console.log(typeof yas1);*/
 
 // Degiskenler konusu için  uygulama
 
-var isim="ada bilgi";
+/*var isim="ada bilgi";
 var dogumTarihi=2012;
 var Anot=((70+70+80)/3);
 var suankiYas=("Ada bilgi yasıi :" +(2025-dogumTarihi));
@@ -79,7 +79,7 @@ else{
 }
 
 console.log(suankiYas);
-console.log(suankiYas1);
+console.log(suankiYas1);*/
 
 
 
