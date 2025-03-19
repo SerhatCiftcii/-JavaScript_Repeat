@@ -82,7 +82,7 @@ else if(z>x && z>y)
     console.log("z en büyük");
 }*/
 
-let vize1=50;
+/*let vize1=50;
 let vize2=40;
 let final=30;
 let ortalama=((vize1+vize2 /2)*0.4)+ (final*0.6);
@@ -93,3 +93,4 @@ if(ortalama>=50 && final>=50)
 else{
     console.log("Kaldınız");
 }
+*/
