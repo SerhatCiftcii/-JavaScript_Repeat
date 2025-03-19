@@ -5,7 +5,7 @@
 /*sonuc=parseFloat=("10.6");
 sonuc=parseFloat=("10.6a");
 sonuc=parseFloat=("a10.6");*/
-sonuc=isNaN("a10");
+/*sonuc=isNaN("a10");
 
 let sayi=15.1215153
 
@@ -21,4 +21,4 @@ sonuc=Math.max(1,2,3,5,6,8)
 
 sonuc=Math.random()*10; //0ila10 arası
 sou
-console.log(sonuc);
+console.log(sonuc);*/
