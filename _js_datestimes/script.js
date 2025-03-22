@@ -16,7 +16,7 @@ sonuc=simdi.getTime();*/
  let simdi =new Date()
  let dogumTarihi=new Date(1990,5, 15,)
  sonuc=simdi.getFullYear() - dogumTarihi.getFullYear();
-sonuc=simdi-dogumTarihi;
+sonuc=simdi-dogumTarihi; //ms cinsinden
 
  console.log(sonuc); 
 console.log(typeof sonuc)   
